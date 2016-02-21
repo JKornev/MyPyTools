@@ -1,6 +1,10 @@
 import sys, re
 from pykd import *
 
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# This script isn't completed yet
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 '''
 TODO:
 + support x64
